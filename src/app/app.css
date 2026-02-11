@@ -1,0 +1,21 @@
+.header {
+  border: 2px solid red;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  /* center horizontally */
+  justify-content: center;
+  /* center vertically */
+  align-items: center;
+}
+
+.body {
+  border: 2px solid green;
+  height: 90%;
+  width: 100%;
+  display: flex;
+  /* center horizontally */
+  justify-content: center;
+  /* center vertically */
+  align-items: center;
+}
